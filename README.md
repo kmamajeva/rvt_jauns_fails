@@ -1,2 +1,2 @@
-# rvt_jauns_fails
+# rvt_kmamajeva_fails
 Mācību faili
